@@ -1,0 +1,5 @@
+
+# Gogosi
+
+-faina
+-drojdie
