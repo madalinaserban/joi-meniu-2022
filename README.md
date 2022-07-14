@@ -1,2 +1,2 @@
-# joi-meniu-2022
+# joi-retetar-2022
 un demo de lucru cu branch-uri
